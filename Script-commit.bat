@@ -42,7 +42,7 @@ git commit -m "%commit%"
 echo Partage sur github en cours :) 
 %githublink%
 git push -u origin master
-echo Le 1er commit "%commit%" a était envoyé avec succés !! 
+echo Le 1er commit "%commit%" a etait envoye avec succés !! 
 echo Merci d'avoir utiliser Mon script :) :)
 pause
 exit
